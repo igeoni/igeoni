@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Geoni
+![image](https://github.com/user-attachments/assets/dd936c46-c4df-4ab3-a599-2dda02f52809)### Hi there 👋, my name is Geoni
 
 - 🌱 I’m currently learning SLAM, PathPlanning 
 - 📫 How to reach me: egune41@gmail.com 
 
 ---
 
-### Stack
+### 🛠️ Stack
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#Langauges)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#Langauges)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#Libraries--Frameworks)
