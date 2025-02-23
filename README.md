@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd936c46-c4df-4ab3-a599-2dda02f52809)### Hi there 👋, my name is Geoni
+### Hi there 👋, my name is Geoni
 
 - 🌱 I’m currently learning SLAM, PathPlanning 
 - 📫 How to reach me: egune41@gmail.com 
