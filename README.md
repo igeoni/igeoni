@@ -11,3 +11,11 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#Libraries--Frameworks)
 [![ROS-humble](https://img.shields.io/badge/-ROS2--humble-%2322314E?style=for-the-badge&logo=ROS&logoColor=white)](#Libraries--Frameworks)
 
+---
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdalswns0427&show_icons=true&theme=radical) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igeoni&layout=compact)](https://github.com/igeoni/github-readme-stats)
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=igeoni&margin-w=15&row=2&column=4&no-frame=true&theme=onedark"> -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
